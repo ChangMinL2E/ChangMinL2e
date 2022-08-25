@@ -20,7 +20,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
 
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ChangMinL2E&style=flat&color=blue" alt=""/>
+  <a href="https://solved.ac/dlckdals007"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlckdals007"/></a>
+</div>
 
 
 

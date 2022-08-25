@@ -13,6 +13,7 @@
 싫어하는것 : 짧은 점심시간, 더위  
 궁금한것: 은 물어봐주세요.  
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals007)](https://solved.ac/dlckdals007/)
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>

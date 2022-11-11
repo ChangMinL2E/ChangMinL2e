@@ -32,5 +32,5 @@
   <a href="https://solved.ac/dlckdals007"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlckdals007"/></a>
 </div>
 
-
+<a href="https://github.com/ChangMinL2E"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMinL2E&theme=dracula&layout=compact&langs_count=10" /></a>
 

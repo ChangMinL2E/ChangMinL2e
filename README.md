@@ -1,16 +1,8 @@
 # 광주 1반 이창민
 
-안녕하세요.
-제 이름은 이창민입니다.
+수학을 좋아하는 개발자입니다.
 
-나이 : 26  
-학력 : 전남대학교 수학과 졸업  
-키 : 178  
-취미 : 운동, 노래  
-특기 : 수학  
-좋아하는것 : 광주 1반  
-싫어하는것 : 짧은 점심시간, 더위  
-궁금한것: 은 물어봐주세요.  
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals007)](https://solved.ac/dlckdals007/)
 
